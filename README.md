@@ -7,6 +7,10 @@
 
 * [یادگیری عمیق ](https://github.com/givkashi/Booklets/tree/main/deep%20learning)
 
-# لینک جزوات روی اینترنت 
+# لینک جزوات و ویدیو های کاربردی 
 * [یادگیری عمیق دانشگاه شریف ](http://ce.sharif.edu/courses/98-99/2/ce719-1/index.php?section=resources&file=resources&cmd=changeDir&id=Slides)
 * [شناسایی اماری الگو شریف](http://dml.ir/courses/pattern-recognition/)
+* [درس شبکه عصبی صنعتی اصفهان](https://github.com/Sajed68/IUT_ANN_97-2)
+* [یادگیری عمیق علوم داده نیویورک](https://atcold.github.io/pytorch-Deep-Learning/fa/)
+* [یادگیری ماشین صنعتی شریف ](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273/)\
+* [اسلاید های یادگیری ماشین صنعتی شریف ](http://ce.sharif.edu/courses/93-94/1/ce717-1/index.php?section=resources&file=resources&cmd=goUp)
